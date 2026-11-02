@@ -1,0 +1,6 @@
+FinSight Transaction Analytics
+
+Planned features:
+1. Total transaction volume
+2. Daily transaction trends
+3. Suspicious transaction analysis
